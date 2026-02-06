@@ -1,5 +1,5 @@
 // app.js (ES module version using transformers.js for local sentiment classification)
-const GAS_URL = "https://script.google.com/macros/s/AKfycbyzggnSaJBXJn0Gh7cG9E_tnMs1VEdTO7Xc1qEX3-IyNEkEr-gn1gbvnq0QePrao6T2mw/exec"
+const GAS_URL = "https://script.google.com/macros/s/AKfycbyC11wOrf5wjC6-0-d8kgt44K6TiOKAxdWWNhDYHteeiasgkN3AgLlm6FAShMepI1CVDg/exec"
 
 import { pipeline } from "https://cdn.jsdelivr.net/npm/@huggingface/transformers@3.7.6/dist/transformers.min.js";
 

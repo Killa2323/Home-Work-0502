@@ -1,4 +1,4 @@
-const GAS_URL = "https://script.google.com/macros/s/AKfycbxT0l-BfDeSbn3ssU2aD6XrukiFqUjd5hS70zrUzuVRduyxJvX2U0u8Bl8mu7P0gPDTGg/exec"
+const GAS_URL = "https://script.google.com/macros/s/AKfycbx65ft4jriqUCcCoF9Ej0mCo8ENMr1wiic5I5FKE_5kCmYaojBbL3V5lypaQCAdIQCTBA/exec"
 
 import { pipeline } from "https://cdn.jsdelivr.net/npm/@huggingface/transformers@3.7.6/dist/transformers.min.js";
 

@@ -205,7 +205,7 @@ function renderSentimentResult(sentimentData) {
 // Analytics Logging
 async function logAnalyticsData(reviewText, sentimentLabel, confidence, metadata) {
     // ВСТАВЬТЕ СЮДА ВАШ WEB APP URL
-    const GOOGLE_SHEETS_URL = 'https://script.google.com/macros/s/AKfycbyup6QQqa820S2sYanCJQXyi2ACGlArHwul9GQIljna1V-iWxN_50PNS0RDKOHEWt4LMw/exec';
+    const GOOGLE_SHEETS_URL = 'https://script.google.com/macros/s/AKfycbzcpcadEEnZPfTAI0q1egoink2aNMEiAild-djILKyVcH11yCp6HadPJCwVqU_gjpmKWg/exec';
     
     try {
         const timestamp = new Date().toISOString();
